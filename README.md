@@ -1,4 +1,4 @@
-# LexicalSubstitution
+# Lexical Substitution
 This project explores the task of finding a suitable substitution for a target word in a sentence. For example, in the following set of sentences the word dry can be replaced with different words provided in the second column. Either dull or teetotal or parched can be suitable replacements for the word dry depending on the context.
 ![background](./images/background.png)
 
